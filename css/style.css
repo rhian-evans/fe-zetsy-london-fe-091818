@@ -42,3 +42,7 @@ footer p  {
   color:rgb(88,88,88);
   text-align:right;
 }
+column {
+  display:inline-block;
+  width:30%;
+}
